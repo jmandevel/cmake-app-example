@@ -4,7 +4,7 @@
 
 namespace my_app {
 
-void printHelloWorld() {
+inline void printHelloWorld() {
     std::cout << "Hello, world!" << std::endl;
 }
 
