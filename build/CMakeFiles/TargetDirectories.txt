@@ -1,5 +1,0 @@
-C:/Users/danie/Documents/dev/cmake-app-example/build/CMakeFiles/MyApp.dir
-C:/Users/danie/Documents/dev/cmake-app-example/build/CMakeFiles/edit_cache.dir
-C:/Users/danie/Documents/dev/cmake-app-example/build/CMakeFiles/rebuild_cache.dir
-C:/Users/danie/Documents/dev/cmake-app-example/build/src/CMakeFiles/edit_cache.dir
-C:/Users/danie/Documents/dev/cmake-app-example/build/src/CMakeFiles/rebuild_cache.dir

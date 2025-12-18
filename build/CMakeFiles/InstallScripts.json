@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/Users/danie/Documents/dev/cmake-app-example/build/cmake_install.cmake",
-		"C:/Users/danie/Documents/dev/cmake-app-example/build/src/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
