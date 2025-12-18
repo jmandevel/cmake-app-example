@@ -28,7 +28,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 # https://cmake.org/cmake/help/latest/command/add_executable.html
 add_executable(MyApp)
 
-# include the src subdirectory where more CMake code is located
+# execute the CMakeLists.txt file in the src/ subdirectory
 add_subdirectory(src)
 
 # specify include directories for the MyApp target
