@@ -6,4 +6,5 @@ target_sources(
         "main.cpp"
         # you can add more source files here as needed
         # then you need to reconfigure and rebuild your project
+        # to reconfigure, delete the build folder and then rerun cmake
 )
