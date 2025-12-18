@@ -12,7 +12,7 @@ project(MyProject
     DESCRIPTION "This is a simple CMake project example"
 # define the version of your project
 # https://semver.org/
-    VERSION 0.0.1.0 
+    VERSION 0.0.0.0 
 # list all languages you want to compile in your project
     LANGUAGES C CXX
 )
