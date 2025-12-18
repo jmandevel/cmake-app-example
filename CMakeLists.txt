@@ -17,8 +17,8 @@ project(MyProject
     LANGUAGES C CXX
 )
 
-# Set some variable values
-# Change this to the version of C++ you want to support
+# set some variable values
+# change this to the version of C++ you want to support
 set(CMAKE_CXX_STANDARD 17) 
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
