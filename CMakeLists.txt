@@ -23,7 +23,6 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # define an executable target to build from source files
-# empty string "" is a placeholder for source files to be added later
 # you could also add source files here directly instead of using target_sources() later
 # https://cmake.org/cmake/help/latest/command/add_executable.html
 add_executable(MyApp)
